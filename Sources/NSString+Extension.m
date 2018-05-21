@@ -12,8 +12,7 @@
 
 
 
-
--(void)haha{
+-(void)test {
     
 }
 - (BOOL)isStringNotNil{
