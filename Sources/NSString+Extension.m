@@ -10,6 +10,12 @@
 
 @implementation NSString (Extension)
 
+
+
+
+-(void)haha{
+    
+}
 - (BOOL)isStringNotNil{
     return self != nil && self != NULL && (![self isKindOfClass:[NSNull class]]);
 }
