@@ -10,6 +10,7 @@
 
 @implementation NSString (Extension)
 
+//牛献彬。。。。
 
 - (BOOL)isStringNotNil{
     return self != nil && self != NULL && (![self isKindOfClass:[NSNull class]]);
