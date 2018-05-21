@@ -11,10 +11,6 @@
 @implementation NSString (Extension)
 
 
-
--(void)test {
-    
-}
 - (BOOL)isStringNotNil{
     return self != nil && self != NULL && (![self isKindOfClass:[NSNull class]]);
 }
